@@ -1,0 +1,6 @@
+/venv
+/proyecto/__init__.py
+/proyecto/asgi.py
+/proyecto/settings.py
+/proyecto/wsgi.py
+
